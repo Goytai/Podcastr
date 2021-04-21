@@ -90,7 +90,7 @@ See more <a href="https://nextlevelweek.com/">here</a>.
 ------------
 <p align="center">Made with 💜 by Goytai</p><br>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Goytai/goytai/master/linkedin.svg" alt="Linkedin"/>
-    <img src="https://raw.githubusercontent.com/Goytai/goytai/master/github.svg" alt="GitHub"/>
-    <img src="https://raw.githubusercontent.com/Goytai/goytai/master/gmail.svg" alt="Email"/>
+    <a href="https://github.com/Goytai"><img src="https://raw.githubusercontent.com/Goytai/goytai/master/github.svg" width="100px" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/goytai/"><img src="https://raw.githubusercontent.com/Goytai/goytai/master/linkedin.svg" width="100px" alt="Linkedin"/></a>
+    <a href="mailto:dev.goytai@gmail.com"><img src="https://raw.githubusercontent.com/Goytai/goytai/master/gmail.svg" width="100px" alt="Email"/></a>
 </p>
