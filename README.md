@@ -2,7 +2,6 @@
     <img src="/.github/banner.svg" alt="Podcastr"/>
 </h1>
 
-------------
 <p align="center">
     <img src="/.github/logo.svg" alt="Logo"/><br><br>
     The best for you to hear, always! :headphones:
@@ -40,6 +39,7 @@ My many thanks to 👨‍🏫 [Diego Fernandes](https://github.com/diego3g) from
 <h2>📝 License</h2>
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Goytai/NLW5/blob/master/LICENSE) file for details.
 
+------------
 <h2>🚀 Next Level Week #05</h2>
 <p align="center">
     <img src="/.github/nlw5.png" alt="Next Level Week"/>
