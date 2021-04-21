@@ -1,20 +1,20 @@
 <h1 align="center">Next Level Week #05</h1>
 
 <p align="center">
-  <img src="/.github/logo.svg" alt="Podcastr"/><br><br>
-  The best for you to hear, always! :headphones:
+    <img src="/.github/logo.svg" alt="Podcastr"/><br><br>
+    The best for you to hear, always! :headphones:
 </p>
 
 ------------
 <h4 align="center">
-   🚧 Project under construction ... 🚧
+    :construction: Project under construction ... :construction:
 </h4>
 
 
 ------------
 <h2>:book: About</h2>
 
-Project proposed by [RocketSeat](https://rocketseat.com.br/ "RocketSeat") 🚀 during the Next Level Week #05. Whose project is a Front End of a podcast streaming website.
+Project proposed by [RocketSeat](https://rocketseat.com.br/ "RocketSeat") :rocket: during the Next Level Week #05. Whose project is a Front End of a podcast streaming website.
 
 :pushpin: The project layout is available on <a href="https://www.figma.com/file/is9KGod2KJ8eINasYTA0ad/Podcastr?node-id=160%3A2761">Figma</a>
 
@@ -37,7 +37,7 @@ The project was developed with:
 ------------
 <h2>:mortar_board: Thanks</h2>
 
-My many thanks to :man_teacher: [Diego Fernandes](https://rocketseat.com.br/ "Diego Fernandes") from 🚀 [RocketSeat](https://rocketseat.com.br/ "RocketSeat")
+My many thanks to :man_teacher: [Diego Fernandes](https://rocketseat.com.br/ "Diego Fernandes") from :rocket: [RocketSeat](https://rocketseat.com.br/ "RocketSeat")
 
 ------------
 <h2>:keyboard: Writer</h2>
