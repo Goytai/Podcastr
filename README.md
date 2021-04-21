@@ -78,10 +78,9 @@ My many thanks to 👨‍🏫 <a href="https://github.com/diego3g">Diego Fernand
 This project is licensed under the MIT License. See the <a href="https://github.com/Goytai/NLW5/blob/master/LICENSE">LICENSE</a> file for details.
 
 ------------
-<h2>🚀 Next Level Week #05</h2>
-<p align="center">
+<h2 align="center">
     <img src="/.github/nlw5.png" alt="Next Level Week"/>
-</p>
+</h2>
 
 NLW is an online event with lots of code, challenges, networking and a single objective: to take you to the next level.
 
