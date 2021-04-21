@@ -33,10 +33,10 @@ The project was developed with:
 
 ------------
 <h2>🖥️ Live Preview</h2>
-The live preview is available at <a href="https://nlw5.vercel.app/">https://nlw5.vercel.app/</a>
+The live preview is available at: 
 
 <p align="center">
-    <img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fnlw5.vercel.app%2F" alt="Website Status" />
+    <a href="https://nlw5.vercel.app/"><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fnlw5.vercel.app%2F" alt="Website Status" /></a>
 </p>
 
 ------------
