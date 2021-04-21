@@ -5,6 +5,8 @@ import { Player } from '../components/Player'
 
 import styles from '../styles/app.module.sass'
 
+if (process.env.NODE_ENV !== 'production') {require('dotenv').config()}
+
 function MyApp({ Component, pageProps }) {
     return (
         <div className={styles.wrapper}>
