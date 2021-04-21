@@ -42,6 +42,8 @@ My many thanks to :man_teacher: [Diego Fernandes](https://rocketseat.com.br/ "Di
 ------------
 <h2>:keyboard: Writer</h2>
 
+Project written by:
+
 &rarr; Name: Nathan Vieira
 
 &rarr; Nickname: Goytai
