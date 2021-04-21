@@ -37,7 +37,7 @@ The project was developed with:
 ------------
 <h2>:mortar_board: Thanks</h2>
 
-:man_teacher: [Diego Fernandes](https://rocketseat.com.br/ "Diego Fernandes") from 🚀 [RocketSeat](https://rocketseat.com.br/ "RocketSeat")
+My many thanks to :man_teacher: [Diego Fernandes](https://rocketseat.com.br/ "Diego Fernandes") from 🚀 [RocketSeat](https://rocketseat.com.br/ "RocketSeat")
 
 ------------
 <h2>:keyboard: Writer</h2>
