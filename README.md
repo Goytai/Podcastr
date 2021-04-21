@@ -37,7 +37,7 @@ My many thanks to 👨‍🏫 [Diego Fernandes](https://github.com/diego3g) from
 
 ------------
 <h2>📝 License</h2>
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Goytai/NLW5/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License. See the <a href="https://github.com/Goytai/NLW5/blob/master/LICENSE">LICENSE</a> file for details.
 
 ------------
 <h2>🚀 Next Level Week #05</h2>
