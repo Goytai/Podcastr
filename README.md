@@ -5,8 +5,11 @@
 <p align="center">
     <img src="/.github/logo.svg" alt="Logo"/><br><br>
     The best for you to hear, always! :headphones:<br>
-    ![Badge](https://img.shields.io/github/license/Goytai/NLW5?style=for-the-badge)<br>
-    ![Badge](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fnlw5.vercel.app%2F)
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/github/license/Goytai/NLW5?style=for-the-badge" alt="License MIT" />
+    <img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fnlw5.vercel.app%2F" alt="Website Status" />
 </p>
 
 ------------
@@ -17,27 +20,27 @@
 ------------
 <h2>📖 About</h2>
 
-Project proposed by [RocketSeat](https://rocketseat.com.br/) 🚀 during the Next Level Week #05 in April 2021.
+Project proposed by <a href="https://rocketseat.com.br/">Rockeseat</a> 🚀 during the Next Level Week #05 in April 2021.
 
 ------------
 <h2>🧪 Technology</h2>
 
 The project was developed with:
 
-&rarr; [Next.js](https://nextjs.org/) <br>
-&rarr; [React](https://reactjs.org) <br>
-&rarr; [TypeScript](https://www.typescriptlang.org/) <br>
+&rarr; <a href="https://nextjs.org/">Next.js</a> <br>
+&rarr; <a href="https://reactjs.org">React</a> <br>
+&rarr; <a href="https://www.typescriptlang.org/">TypeScript</a> <br>
 
 ------------
 <h2>🖥️ Live Preview</h2>
 The live preview is available at <a href="https://nlw5.vercel.app/">https://nlw5.vercel.app/</a>
 
 <p align="center">
-    ![Badge](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fnlw5.vercel.app%2F)
+    <img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fnlw5.vercel.app%2F" alt="Website Status" />
 </p>
 
 ------------
-<h2>🖥️ Getting started</h2>
+<h2>🔌 Getting started</h2>
 Clone the project:
 
 ```bash
@@ -63,12 +66,12 @@ $ yarn dev
 ```
 ------------
 <h2>🔖 Layout</h2>
-The project layout is available on [Figma](https://www.figma.com/file/is9KGod2KJ8eINasYTA0ad/Podcastr).
+The project layout is available on <a href="https://www.figma.com/file/is9KGod2KJ8eINasYTA0ad/Podcastr">Figma</a>.
 
 ------------
 <h2>🎓 Thanks</h2>
 
-My many thanks to 👨‍🏫 [Diego Fernandes](https://github.com/diego3g) from 🚀 [RocketSeat](https://rocketseat.com.br/).
+My many thanks to 👨‍🏫 <a href="https://github.com/diego3g">Diego Fernandes</a> from 🚀 <a href="https://rocketseat.com.br/">RocketSeat</a>.
 
 ------------
 <h2>📝 License</h2>
@@ -82,7 +85,12 @@ This project is licensed under the MIT License. See the <a href="https://github.
 
 NLW is an online event with lots of code, challenges, networking and a single objective: to take you to the next level.
 
-See more [here](https://nextlevelweek.com/)
+See more <a href="https://nextlevelweek.com/">here</a>.
 
 ------------
-<p align="center">Made with 💜 by Goytai</p>
+<p align="center">Made with 💜 by Goytai</p><br>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Goytai/goytai/master/linkedin.svg" alt="Linkedin"/>
+    <img src="https://raw.githubusercontent.com/Goytai/goytai/master/github.svg" alt="GitHub"/>
+    <img src="https://raw.githubusercontent.com/Goytai/goytai/master/gmail.svg" alt="Email"/>
+</p>
