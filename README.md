@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/Goytai/NLW5?style=for-the-badge" alt="License MIT" />
-    <img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fnlw5.vercel.app%2F" alt="Website Status" />
+    <img src="https://img.shields.io/github/license/Goytai/NLW5?color=6f48c9&style=for-the-badge" alt="License MIT" />
+    <img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=6f48c9&up_message=online&url=https%3A%2F%2Fnlw5.vercel.app%2F" alt="Website Status" />
 </p>
 
 ------------
@@ -36,7 +36,7 @@ The project was developed with:
 The live preview is available at: 
 
 <p align="center">
-    <a href="https://nlw5.vercel.app/"><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fnlw5.vercel.app%2F" alt="Website Status" /></a>
+    <a href="https://nlw5.vercel.app/"><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=6f48c9&up_message=online&url=https%3A%2F%2Fnlw5.vercel.app%2F" alt="Website Status" /></a>
 </p>
 
 ------------
