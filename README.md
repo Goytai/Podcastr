@@ -47,13 +47,13 @@ Clone the project:
 $ git clone https://github.com/Goytai/NLW5.git
 ```
 
-Acess the folder
+Acess the folder:
 
 ```bash
 $ cd NLW5
 ```
 
-Follow the steps below
+Follow the steps below:
 ```bash
 # Install the dependencies
 $ yarn
