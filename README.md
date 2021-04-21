@@ -1,53 +1,53 @@
-<h1 align="center">Next Level Week #05</h1>
+<h1 align="center">
+    <img src="/.github/banner.svg" alt="Podcastr"/>
+</h1>
 
+------------
 <p align="center">
-    <img src="/.github/logo.svg" alt="Podcastr"/><br><br>
+    <img src="/.github/logo.svg" alt="Logo"/><br><br>
     The best for you to hear, always! :headphones:
 </p>
 
 ------------
 <h4 align="center">
-    :construction: Project under construction ... :construction:
+    🚧 Project under construction ... 🚧
 </h4>
 
+------------
+<h2>📖 About</h2>
+
+Project proposed by [RocketSeat](https://rocketseat.com.br/) 🚀 during the Next Level Week #05 in April 2021.
 
 ------------
-<h2>:book: About</h2>
-
-Project proposed by [RocketSeat](https://rocketseat.com.br/ "RocketSeat") :rocket: during the Next Level Week #05. Whose project is a Front End of a podcast streaming website.
-
-:pushpin: The project layout is available on <a href="https://www.figma.com/file/is9KGod2KJ8eINasYTA0ad/Podcastr?node-id=160%3A2761">Figma</a>
-
-------------
-
-<h2>:desktop_computer: Technology</h2>
+<h2>🖥️ Technology</h2>
 
 The project was developed with:
 
-&rarr; <a href="https://nodejs.org/"> Node.js </a>
-
-&rarr; <a href="https://reactjs.org/"> React </a>
-
-&rarr; <a href="https://nextjs.org/"> Next.js </a>
-
-&rarr; <a href="https://www.typescriptlang.org/"> TypeScript </a>
-
-&rarr; <a href="https://sass-lang.com/"> SASS </a>
+&rarr; [Next.js](https://nextjs.org/)
+&rarr; [React](https://reactjs.org)
+&rarr; [TypeScript](https://www.typescriptlang.org/)
 
 ------------
-<h2>:mortar_board: Thanks</h2>
-
-My many thanks to :man_teacher: [Diego Fernandes](https://rocketseat.com.br/ "Diego Fernandes") from :rocket: [RocketSeat](https://rocketseat.com.br/ "RocketSeat")
-
-------------
-<h2>:keyboard: Writer</h2>
-
-Project written by:
-
-&rarr; Name: Nathan Vieira
-
-&rarr; Nickname: Goytai
-
-&rarr; Social Media: [Linkedin](https://www.linkedin.com/in/goytai/ "Linkedin") & [GitHub](https://github.com/Goytai/ "GitHub")
+<h2>📌 Layout</h2>
+The project layout is available on [Figma](https://www.figma.com/file/is9KGod2KJ8eINasYTA0ad/Podcastr).
 
 ------------
+<h2>🎓 Thanks</h2>
+
+My many thanks to 👨‍🏫 [Diego Fernandes](https://github.com/diego3g) from 🚀 [RocketSeat](https://rocketseat.com.br/).
+
+------------
+<h2>📝 License</h2>
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Goytai/NLW5/blob/master/LICENSE) file for details.
+
+<h2>🚀 Next Level Week #05</h2>
+<p align="center">
+    <img src="/.github/nlw5.png" alt="Next Level Week"/>
+</p>
+
+NLW is an online event with lots of code, challenges, networking and a single objective: to take you to the next level.
+
+See more [here](https://nextlevelweek.com/)
+
+------------
+<p align="center">Made with 💜 by Goytai</p>
