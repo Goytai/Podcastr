@@ -5,7 +5,9 @@ import { Player } from '../components/Player'
 
 import styles from '../styles/app.module.sass'
 
-if (process.env.NODE_ENV !== 'production') {require('dotenv').config()}
+import config from '../../config.json'
+
+if (process.env.NODE_ENV !== "production") {process.env.API = config.API}
 
 function MyApp({ Component, pageProps }) {
     return (
