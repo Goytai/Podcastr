@@ -40,6 +40,24 @@
     align-items: center
     justify-content: center
 
+.currentEpisode
+    text-align: center
+
+    img
+        border-radius: 1.5rem
+
+    strong
+        display: block
+        margin-top: 2rem
+        font: 600 1.25rem Lexend, sans-serif
+        line-height: 1.75rem
+
+    span
+        display: block
+        margin-top: 1rem
+        opacity: 0.6
+        line-height: 1.5rem
+
 .progress
     display: flex
     align-items: center
@@ -74,8 +92,19 @@
         font-size: 0
         outline: none
 
+        transition: filter 0.2s
+
+        &:disabled
+            cursor: default
+
+        &:hover:not(:disabled)
+            filter: brightness(0.7)
+
         &[data-action='play']
             width: 4rem
             height: 4rem
             background: var(--purple-300)
             border-radius: 1rem
+            
+            &:hover:not(:disabled)
+                filter: brightness(0.95)
