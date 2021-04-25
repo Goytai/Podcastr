@@ -3,6 +3,7 @@ import { useEffect, useRef, useState } from 'react'
 import Slider from 'rc-slider'
 
 import { usePlayer } from '../../contexts/PlayerContext'
+import { useTheme } from '../../contexts/ThemeContext'
 
 import 'rc-slider/assets/index.css'
 
@@ -27,6 +28,8 @@ export function Player() {
         setPlayingState,
         clearPlayerState
     } = usePlayer()
+
+    const {isDark} = useTheme()
 
     const audioRef = useRef<HTMLAudioElement>(null)
     const episode = episodeList[currentEpisodeIndex]
@@ -92,9 +95,9 @@ export function Player() {
                                 max={episode.duration}
                                 value={progress}
                                 onChange={handleSeek}
-                                trackStyle={{backgroundColor: '#04d361'}}
-                                railStyle={{backgroundColor: '#9f75ff'}}
-                                handleStyle={{borderColor: '#04d361', borderWidth: 4}}
+                                trackStyle={isDark ? {backgroundColor: 'rgb(4, 211, 97)'} : {backgroundColor: '#04d361'}}
+                                railStyle={isDark ? {backgroundColor: '#9F75FF'} : {backgroundColor: '#9f75ff'}}
+                                handleStyle={isDark ? {borderColor: 'rgb(4, 211, 97)', borderWidth: 4} : {borderColor: '#04d361', borderWidth: 4}}
                             />
                         ) : (
                             <div className={styles.emptySlider} />
