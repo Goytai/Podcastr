@@ -3,21 +3,45 @@
     padding: 0
     box-sizing: border-box
 
-:root
+html
     --white: #FFF
-
-    --gray-50: #F7F8FA
-    --gray-100: #E6E8EB
-    --gray-200: #AFB2B1
-    --gray-500: #808080
-    --gray-800: #494D4B
-
+    --gray-0: #F7F8FA
+    --gray-1: #E6E8EB
+    --gray-2: #AFB2B1
+    --gray-3: #808080
+    --gray-4: #494D4B
     --green-500: #04D361
-
     --purple-300: #9F75FF
     --purple-400: #9164FA 
     --purple-500: #8257E5
     --purple-800: #6F48C9
+
+    --bg-header: #FFF
+    --bg-pages: #F7F8FA
+    --bg-player: #8257E5
+    --bg-items: #FFF
+
+    --gradient-player: linear-gradient(143.8deg,rgba(145, 100, 250, 0.8) 0%,rgba(0, 0, 0, 0) 100%)
+
+    &[data-dark="true"]
+        --white: #FFF
+        --gray-0: #494D4B
+        --gray-1: #494D4B
+        --gray-2: #808080
+        --gray-3: #AFB2B1
+        --gray-4: #F7F8FA
+        --green-500: #04D361
+        --purple-300: #9F75FF
+        --purple-400: #9164FA 
+        --purple-500: #8257E5
+        --purple-800: #6F48C9
+
+        --bg-header: #3b3b3b
+        --bg-pages: #242424
+        --bg-player: #4a4a4a
+        --bg-items: #3b3b3b
+
+        --gradient-player: linear-gradient(143.8deg,rgba(24, 24, 24, 0.8) 0%,rgba(0, 0, 0, 0) 100%)
 
 @media (max-width: 1080px)
     html
@@ -32,16 +56,29 @@
     font-size: 85%
 
 body
-    background: vat(--gray-50)
+    background: var(--bg-pages)
+
+::-webkit-scrollbar
+    width: 6px
+
+::-webkit-scrollbar-track
+    background: var(--bg-pages)
+
+::-webkit-scrollbar-thumb
+    background: var(--gray-2)
+    border-radius: 3px
+
+::-webkit-scrollbar-thumb:hover
+    background: var(--gray-4)
 
 body, input, textarea, button
     font: 500 1rem Inter, sans-serif
-    color: var(--gray-500)
+    color: var(--gray-3)
 
 h1, h2, h3, h4, h5, h6
     font-weight: 600
     font-family: Lexend, sans-serif
-    color: var(--gray-800)
+    color: var(--gray-4)
 
 h1
     font-size: 2rem

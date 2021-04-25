@@ -13,9 +13,6 @@
     <img src="https://img.shields.io/github/license/Goytai/NLW5?color=6f48c9&style=for-the-badge" alt="License MIT" />
     <a href="https://nlw5.vercel.app/"><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=6f48c9&up_message=online&url=https%3A%2F%2Fnlw5.vercel.app%2F" alt="Website Status" /></a>
 </p>
-<h4 align="center">
-    🚧 Project under construction ... 🚧
-</h4>
 
 ------------
 <h2>📖 About</h2>
@@ -67,6 +64,12 @@ $ yarn dev
 ------------
 <h2>🔖 Layout</h2>
 The project layout is available on <a href="https://www.figma.com/file/is9KGod2KJ8eINasYTA0ad/Podcastr">Figma</a>.
+
+------------
+<h2>👣 Next steps</h2>
+
+- [x] Dark Mode
+- [ ] Responsive Web Design
 
 ------------
 <h2>🎓 Thanks</h2>
