@@ -69,6 +69,12 @@ $ yarn dev
 The project layout is available on <a href="https://www.figma.com/file/is9KGod2KJ8eINasYTA0ad/Podcastr">Figma</a>.
 
 ------------
+<h2>👣 Next steps</h2>
+
+- [x] Dark Mode
+- [ ] Responsive Web Design
+
+------------
 <h2>🎓 Thanks</h2>
 
 My many thanks to 👨‍🏫 <a href="https://github.com/diego3g">Diego Fernandes</a> from 🚀 <a href="https://rocketseat.com.br/">RocketSeat</a>.
