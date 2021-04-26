@@ -5,7 +5,6 @@ export default class MyDocument extends Document {
         return (
             <Html>
                 <Head>
-                    
                     <meta property="og:locale" content="pt_BR">
 
                     <meta property="og:url" content="https://nlw5.vercel.app/">
