@@ -69,7 +69,8 @@ The project layout is available on <a href="https://www.figma.com/file/is9KGod2K
 <h2>👣 Next steps</h2>
 
 - [x] Dark Mode
-- [ ] Responsive Web Design
+- [x] Responsive Web Design
+- [ ] Progressive Web App
 
 ------------
 <h2>🎓 Thanks</h2>
