@@ -43,7 +43,7 @@ export default function Episode ({episode}: EpisodeProps) {
                 <meta property="og:title" content={episode.title}/>
                 <meta property="og:site_name" content="Podcastr"/>
 
-                <meta property="og:image" content={episode.thumbnail}/>
+                <meta property="og:image" content={`Podcastr | ${episode.thumbnail}`}/>
                 <meta property="og:image:type" content="image/jpeg"/>
                 <meta property="og:image:width" content="1280"/>
                 <meta property="og:image:height" content="720"/>
