@@ -36,6 +36,18 @@ export default function Episode ({episode}: EpisodeProps) {
         <div className={styles.episodeContainer}>
 
             <Head>
+                <meta property="og:locale" content="pt_BR" />
+
+                <meta property="og:url" content="https://nlw5.vercel.app/"/>
+
+                <meta property="og:title" content={`Podcastr | ${episode.title}`}/>
+                <meta property="og:site_name" content="Podcastr"/>
+
+                <meta property="og:image" content={episode.thumbnail}/>
+                <meta property="og:image:type" content="image/jpeg"/>
+                <meta property="og:image:width" content="1280"/>
+                <meta property="og:image:height" content="720"/>
+
                 <title>{episode.title} | Podcastr</title>
             </Head>
 

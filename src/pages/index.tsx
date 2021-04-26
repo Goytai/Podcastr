@@ -39,6 +39,18 @@ export default function Home ({lastedEpisodes, allEpisodes}: HomeProps) {
         <div className={styles.homepage}>
 
             <Head>
+                <meta property="og:locale" content="pt_BR"/>
+
+                <meta property="og:url" content="https://nlw5.vercel.app/"/>
+
+                <meta property="og:title" content="Podcastr | O melhor para você ouvir, sempre"/>
+                <meta property="og:site_name" content="Podcastr"/>
+
+                <meta property="og:image" content="./banner.jpg"/>
+                <meta property="og:image:type" content="image/jpg"/>
+                <meta property="og:image:width" content="1280"/>
+                <meta property="og:image:height" content="720"/>
+
                 <title>Home | Podcastr</title>
             </Head>
 
