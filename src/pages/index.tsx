@@ -46,7 +46,7 @@ export default function Home ({lastedEpisodes, allEpisodes}: HomeProps) {
                 <meta property="og:title" content="Podcastr | O melhor para você ouvir, sempre"/>
                 <meta property="og:site_name" content="Podcastr"/>
 
-                <meta property="og:image" content="./banner.jpg"/>
+                <meta property="og:image" content="/banner.jpg"/>
                 <meta property="og:image:type" content="image/jpg"/>
                 <meta property="og:image:width" content="1280"/>
                 <meta property="og:image:height" content="720"/>
