@@ -1,5 +1,7 @@
 .wrapper
-    display: flex
+    display: grid
+    grid-template: "header player" "page player"
+    grid-auto-columns: auto 26.5rem
 
-    main
-        flex: 1
+    @media (max-width: 1170px)
+        grid-template: "header" "page" "player"

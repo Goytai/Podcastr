@@ -12,11 +12,8 @@ function MyApp({ Component, pageProps }) {
         <ThemeProvider>
             <PlayerContextProvider>
                 <div className={styles.wrapper}>
-                    <main>
-                        <Header />
-                        <Component {...pageProps} />
-                    </main>
-
+                    <Header />
+                    <Component {...pageProps} />
                     <Player />
                 </div>
             </PlayerContextProvider>
