@@ -45,8 +45,8 @@ export default function Episode ({episode}: EpisodeProps) {
 
                 <meta property="og:image" content={episode.thumbnail}/>
                 <meta property="og:image:type" content="image/jpeg"/>
-                <meta property="og:image:width" content="800"/>
-                <meta property="og:image:height" content="600"/>
+                <meta property="og:image:width" content="1280"/>
+                <meta property="og:image:height" content="720"/>
 
                 <title>{episode.title} | Podcastr</title>
             </Head>
