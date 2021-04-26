@@ -48,15 +48,17 @@ export default function Home ({lastedEpisodes, allEpisodes}: HomeProps) {
                 <ul>
                     {lastedEpisodes.map((episode, index) => {
                         return (
-                            <li key={episode.id}>
+                            <li className={styles.lestedEpisode} key={episode.id}>
 
-                                <Image
-                                    width={192}
-                                    height={192}
-                                    src={episode.thumbnail}
-                                    alt={episode.title}
-                                    objectFit="cover"
-                                />
+                                <div className={styles.lastedThumbnail}>
+                                    <Image
+                                        width={1200}
+                                        height={1200}
+                                        src={episode.thumbnail}
+                                        alt={episode.title}
+                                        objectFit="cover"
+                                    />
+                                </div>
 
                                 <div className={styles.episodeDetails}>
                                     <Link href={`/episodes/${episode.id}`}>
@@ -95,7 +97,7 @@ export default function Home ({lastedEpisodes, allEpisodes}: HomeProps) {
                         {allEpisodes.map((episode, index) => {
                             return (
                                 <tr key={episode.id}>
-                                    <td style={{width: 72}}>
+                                    <td className={styles.thumbnail} style={{width: 72}}>
                                         <Image
                                             width={120}
                                             height={120}
@@ -104,17 +106,17 @@ export default function Home ({lastedEpisodes, allEpisodes}: HomeProps) {
                                             objectFit="cover"
                                         />
                                     </td>
-                                    <td>
+                                    <td className={styles.title}>
                                         <Link href={`/episodes/${episode.id}`}>
                                             <a>{episode.title}</a>
                                         </Link>
                                     </td>
-                                    <td>{episode.members}</td>
-                                    <td style={{width: 100}}>{episode.publishedAt}</td>
-                                    <td>{episode.durationAsString}</td>
-                                    <td>
+                                    <td className={styles.members}>{episode.members}</td>
+                                    <td className={styles.date} style={{width: 100}}>{episode.publishedAt}</td>
+                                    <td className={styles.duration}>{episode.durationAsString}</td>
+                                    <td className={styles.play}>
                                         <button type="button" onClick={() => playList(episodeList, index + lastedEpisodes.length)}>
-                                            <img src="/play-green.svg" alt="Tocar episódio"/>
+                                            <img src="/play-green.svg" className={styles.playButton} alt="Tocar episódio"/>
                                         </button>
                                     </td>
                                 </tr>

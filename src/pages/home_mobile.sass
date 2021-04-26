@@ -1,0 +1,85 @@
+@media (max-width: 1350px)
+    .lestedEpisode
+        flex-direction: column
+
+        .lastedThumbnail
+            width: 100%
+            margin-bottom: 1rem
+            
+            img
+                width: 32rem
+                height: 20rem
+
+        .episodeDetails
+            margin-left: 0
+
+@media (max-width: 1170px)
+    .homepage
+        overflow-y: initial
+        height: max-content
+        margin-bottom: 7.5rem
+
+    .lestedEpisode
+        flex-direction: row
+
+        .lastedThumbnail
+            width: 6rem
+            margin-bottom: 0
+            display: block
+
+            img
+                width: 6rem
+                height: 6rem
+        
+    .latestEpisodes
+        ul
+            grid-template-rows: repeat(2, 1fr)
+            grid-template-columns: 1fr
+
+@media (max-width: 970px)
+    .allEpisodes table
+        thead
+            display: none
+
+
+        tr
+            display: grid
+            gap: 0
+            grid-template: "title title play" "members members play" "date duration play"
+            grid-auto-columns: auto auto 5rem
+            flex-direction: column
+
+            align-items: center
+
+            border-bottom: 1px solid var(--gray-1)
+
+            &:first-of-type
+                border-top: 1px solid var(--gray-1)
+
+            padding: 1rem 0
+
+            td
+                border: 0
+                padding: .2rem .2rem
+
+            .thumbnail
+                display: none
+
+            .title
+                grid-area: title
+
+            .members
+                grid-area: members
+
+            .date
+                grid-area: date
+
+            .duration
+                grid-area: duration
+
+            .play
+                grid-area: play
+
+                button
+                    width: 100%
+                    height: 5rem
