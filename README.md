@@ -50,13 +50,13 @@ The live preview is available at:
 Clone the project:
 
 ```bash
-$ git clone https://github.com/Goytai/NLW5.git
+$ git clone https://github.com/Goytai/Podcastr.git
 ```
 
 Acess the folder:
 
 ```bash
-$ cd NLW5
+$ cd Podcastr
 ```
 
 Follow the steps below:
